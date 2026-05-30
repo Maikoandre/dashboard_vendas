@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas — Power BI Project (PBIP)
+# 📊 Dashboard de Vendas — Power BI Project
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)](https://github.com/)
@@ -6,13 +6,13 @@
 
 Um dashboard corporativo de inteligência de vendas desenvolvido no **Power BI Desktop**.
 
+<img src="Assets/Dashboard_Vendas_page-0001.jpg.jpeg">
+
 ---
 
 ## 🗺️ Visão Geral do Dashboard
 
 O painel foi projetado para fornecer uma visão analítica abrangente sobre o desempenho comercial de vendas, permitindo o acompanhamento de faturamento, margem de lucro, volume de vendas e comportamento de clientes por marcas, regiões e períodos de tempo.
-
-A interface visual é construída sobre um layout dinâmico e integrado com um **Plano de Fundo personalizado** (`Plano de Fundo Vendas.png`), garantindo um design premium, limpo e focado na usabilidade (UX).
 
 ---
 
